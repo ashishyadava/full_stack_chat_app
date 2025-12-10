@@ -172,26 +172,3 @@ If you try to access "http://localhost:3000/login_register" on browser soon afte
     
     11. https://docs.spring.io/spring-security/reference/servlet/authentication/architecture.html
 
-
-# Application Design:
-
-    Images are uploaded inside images folder
-
-    Login Page
-![My Image](images/LogIn.png)
-
-    
-    Sign Up Page
-![My Image](images/SignUp.png)
-
-    
-    Chat Page
-![My Image](images/Chat.png)
-    
-    
-    Chat Page Notification
-![My Image](images/Notifications.png)
-
-
-    Profile on Chat
-![My Image](images/ProfileOnChat.png)
